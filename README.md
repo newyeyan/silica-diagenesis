@@ -1,4 +1,4 @@
-# silica-diagenesis
+
 # chertDiagenesis
 
 1D diagenetic model for chert formation in marine sediments, revise from Tatzel and Frings (2022)
